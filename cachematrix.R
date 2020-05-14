@@ -6,8 +6,8 @@
 ## that can be applied on the matrix.
 ## The functions are returned as a list.
 ## i will contain the inverse and is initialised to NULL. 
-## The set function sets the value of the vector.
-## Get retrieves the value of the vector. 
+## The set function sets the value of the matrix.
+## Get retrieves the value of the matrix. 
 ## Setinverse is used to compute the inverse. Getinverse retrieves the inverse.
 makeCacheMatrix <- function(x = matrix()) {
         i <- NULL
